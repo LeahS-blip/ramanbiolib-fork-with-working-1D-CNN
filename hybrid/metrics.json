@@ -1,0 +1,8 @@
+{
+  "model": "Hybrid ensemble (RandomForest + ExtraTrees + SVM rbf/linear + logreg, TTA)",
+  "source": "data/merged",
+  "holdout_test_acc": 0.9649,
+  "cv_acc": 0.90,
+  "cv_note": "group-aware 5-fold CV on full data; strongest members RF 0.912 / ExtraTrees 0.903",
+  "n_train_spectra": 227
+}
