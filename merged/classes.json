@@ -1,0 +1,8 @@
+{
+  "AminoAcids": 0,
+  "Lipids": 1,
+  "NucleicAcids": 2,
+  "PrimaryMetabolites": 3,
+  "Saccharides": 4,
+  "Proteins": 5
+}
