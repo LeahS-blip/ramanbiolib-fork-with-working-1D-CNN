@@ -1,0 +1,95 @@
+molecule_name,class
+alanine,amino acids
+arginine,amino acids
+asparagine,amino acids
+aspartic acid,amino acids
+glutamic acid,amino acids
+glutamine,amino acids
+glycine,amino acids
+histidine,amino acids
+isoleucine,amino acids
+leucine,amino acids
+lysine,amino acids
+methionine,amino acids
+phenylalanine,amino acids
+serine,amino acids
+threonine,amino acids
+tryptophan,amino acids
+tyrosine,amino acids
+valine,amino acids
+caprylic acid,lipids
+cholesterol,lipids
+decane,lipids
+decanoic acid,lipids
+dodecane,lipids
+glycerol,lipids
+heptane,lipids
+hexadecanol,lipids
+hexane,lipids
+lauric acid,lipids
+linoleic acid,lipids
+myristic acid,lipids
+nonane,lipids
+octane,lipids
+oleic acid,lipids
+palmitic acid,lipids
+stearic acid,lipids
+undecane,lipids
+adenine,nucleic acids
+barbituric acid,nucleic acids
+cytidine,nucleic acids
+cytosine,nucleic acids
+guanine,nucleic acids
+imidazole,nucleic acids
+nicotinamide,nucleic acids
+nicotinic acid,nucleic acids
+purine,nucleic acids
+pyrimidine,nucleic acids
+thymidine,nucleic acids
+thymine,nucleic acids
+uracil,nucleic acids
+uric acid,nucleic acids
+uridine,nucleic acids
+acetate,primary metabolites
+acetone,primary metabolites
+alpha-ketoglutarate,primary metabolites
+butyrate,primary metabolites
+choline,primary metabolites
+citrate,primary metabolites
+creatine,primary metabolites
+ethanol,primary metabolites
+formate,primary metabolites
+fumarate,primary metabolites
+isopropanol,primary metabolites
+lactate,primary metabolites
+malate,primary metabolites
+methanol,primary metabolites
+propionate,primary metabolites
+pyruvate,primary metabolites
+succinate,primary metabolites
+urea,primary metabolites
+acetamide,proteins
+aniline,proteins
+benzamide,proteins
+biuret,proteins
+butylamine,proteins
+butyramide,proteins
+dimethylformamide,proteins
+ethylamine,proteins
+formamide,proteins
+guanidine,proteins
+imidazole,proteins
+indole,proteins
+methylamine,proteins
+n-methylacetamide,proteins
+propionamide,proteins
+propylamine,proteins
+pyrrole,proteins
+urea,proteins
+erythritol,saccharides
+glucosamine,saccharides
+glucose,saccharides
+inositol,saccharides
+mannitol,saccharides
+sorbitol,saccharides
+xylitol,saccharides

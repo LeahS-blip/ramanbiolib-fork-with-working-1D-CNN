@@ -1,0 +1,109 @@
+molecule_name,class
+glycine,amino acids
+alanine,amino acids
+valine,amino acids
+leucine,amino acids
+isoleucine,amino acids
+serine,amino acids
+threonine,amino acids
+methionine,amino acids
+aspartic acid,amino acids
+glutamic acid,amino acids
+asparagine,amino acids
+glutamine,amino acids
+lysine,amino acids
+arginine,amino acids
+histidine,amino acids
+phenylalanine,amino acids
+tyrosine,amino acids
+tryptophan,amino acids
+palmitic acid,lipids
+stearic acid,lipids
+oleic acid,lipids
+linoleic acid,lipids
+myristic acid,lipids
+lauric acid,lipids
+capric acid,lipids
+caprylic acid,lipids
+cholesterol,lipids
+glycerol,lipids
+hexane,lipids
+heptane,lipids
+octane,lipids
+nonane,lipids
+decane,lipids
+undecane,lipids
+dodecane,lipids
+hexadecanol,lipids
+adenine,nucleic acids
+guanine,nucleic acids
+cytosine,nucleic acids
+thymine,nucleic acids
+uracil,nucleic acids
+cytidine,nucleic acids
+uridine,nucleic acids
+thymidine,nucleic acids
+uric acid,nucleic acids
+purine,nucleic acids
+pyrimidine,nucleic acids
+imidazole,nucleic acids
+caffeine,nucleic acids
+theobromine,nucleic acids
+theophylline,nucleic acids
+nicotinamide,nucleic acids
+nicotinic acid,nucleic acids
+barbituric acid,nucleic acids
+pyruvate,primary metabolites
+lactate,primary metabolites
+citrate,primary metabolites
+succinate,primary metabolites
+fumarate,primary metabolites
+malate,primary metabolites
+alpha-ketoglutarate,primary metabolites
+acetate,primary metabolites
+propionate,primary metabolites
+butyrate,primary metabolites
+formate,primary metabolites
+ethanol,primary metabolites
+acetone,primary metabolites
+urea,primary metabolites
+creatine,primary metabolites
+choline,primary metabolites
+methanol,primary metabolites
+isopropanol,primary metabolites
+acetamide,proteins
+formamide,proteins
+propionamide,proteins
+butyramide,proteins
+urea,proteins
+biuret,proteins
+guanidine,proteins
+methylamine,proteins
+ethylamine,proteins
+propylamine,proteins
+butylamine,proteins
+aniline,proteins
+benzamide,proteins
+n-methylacetamide,proteins
+dimethylformamide,proteins
+pyrrole,proteins
+imidazole,proteins
+indole,proteins
+glucose,saccharides
+sorbitol,saccharides
+mannitol,saccharides
+xylitol,saccharides
+erythritol,saccharides
+arabitol,saccharides
+ribitol,saccharides
+inositol,saccharides
+glucosamine,saccharides
+glucuronic acid,saccharides
+gluconic acid,saccharides
+glyceraldehyde,saccharides
+dihydroxyacetone,saccharides
+glycolaldehyde,saccharides
+fructose,saccharides
+galactose,saccharides
+mannose,saccharides
+ribose,saccharides

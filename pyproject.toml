@@ -1,0 +1,78 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ramanbiolib"
+authors = [
+    {name = "Marcelo Teran Miranda"},
+]
+description = "Biomolecules identification search using Raman spectra."
+readme = "README.md"
+requires-python = ">=3.7"
+keywords = ["raman", "spectroscopy", "biomolecules"]
+license = {text = "GNU GPLv3"}
+classifiers = [
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Programming Language :: Python :: 3",
+]
+dynamic = ["version"]
+
+dependencies = [
+  # Python < 3.9
+  "numpy>=1.21.6,<1.23; python_version < '3.9'",
+  "scipy>=1.7.3,<1.10; python_version < '3.9'",
+  "pandas>=1.1.5,<1.5; python_version < '3.9'",
+  "plotly>=5.0,<6.0; python_version < '3.9'",
+
+  # Python 3.9
+  "numpy>=1.21.6,<1.24; python_version == '3.9'",
+  "scipy>=1.7.3,<1.11; python_version == '3.9'",
+  "pandas>=1.3,<1.6; python_version == '3.9'",
+  "plotly>=5.0,<6.0; python_version == '3.9'",
+
+  # Python 3.10
+  "numpy>=1.21.6,<1.25; python_version == '3.10'",
+  "scipy>=1.7.3,<1.11; python_version == '3.10'",
+  "pandas>=1.5; python_version == '3.10'",
+  "plotly>=5.0,<6.0; python_version == '3.10'",
+
+  # Python 3.11
+  "numpy>=1.24; python_version == '3.11'",
+  "scipy>=1.10; python_version == '3.11'",
+  "pandas>=1.5; python_version == '3.11'",
+  "plotly>=5.0,<6.0; python_version == '3.11'",
+
+  # Python 3.12
+  "numpy>=1.24,<=2.2.6; python_version == '3.12'",
+  "scipy>=1.10,<=1.15.3; python_version == '3.12'",
+  "pandas>=1.5,<=2.2.3; python_version == '3.12'",
+  "plotly>=5.0,<6.0; python_version == '3.12'",
+
+  # Python 3.13+
+  "numpy>=1.24,<=2.2.6; python_version >= '3.13'",
+  "scipy>=1.10,<=1.15.3; python_version >= '3.13'",
+  "pandas>=1.5,<=2.2.3; python_version >= '3.13'",
+  "plotly>=5.0,<=6.1.0; python_version >= '3.13'",
+  "setuptools<=80.7.1; python_version >= '3.13'",
+  "nbformat>=4.20; python_version >= '3.13'"
+]
+
+[project.optional-dependencies]
+extraction = ["opencv-python>=4.10.0.84,<4.11"]
+
+[project.urls]
+Homepage = "https://github.com/mteranm/ramanbiolib"
+Repository = "https://github.com/mteranm/ramanbiolib"
+"API Docs" = "https://mteranm.github.io/ramanbiolib/"
+"Bug Tracker" = "https://github.com/mteranm/ramanbiolib/issues"
+
+[tool.setuptools.packages.find]
+include = ["ramanbiolib*"]
+exclude = ["ramanbiolib.tests"]
+
+[tool.setuptools.package-data]
+db = ["raman_peaks_db.csv", "raman_spectra_db.csv", "metadata_db.csv"]
+
+[tool.setuptools.dynamic]
+version = {attr = "ramanbiolib.__version__"}

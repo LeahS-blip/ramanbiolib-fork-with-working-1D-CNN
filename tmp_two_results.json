@@ -1,0 +1,14 @@
+[
+  {
+    "molecule_name": "alanine",
+    "class": "amino acids",
+    "status": "fallback_success",
+    "message": "Recovered via fallback_db:alanine"
+  },
+  {
+    "molecule_name": "glutamic acid",
+    "class": "amino acids",
+    "status": "not_found",
+    "message": "No local fallback spectrum found (local-only mode)"
+  }
+]

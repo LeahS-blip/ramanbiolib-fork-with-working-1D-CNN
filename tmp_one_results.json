@@ -1,0 +1,8 @@
+[
+  {
+    "molecule_name": "alanine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  }
+]

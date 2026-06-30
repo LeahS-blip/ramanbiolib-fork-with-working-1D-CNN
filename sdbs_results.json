@@ -1,0 +1,566 @@
+[
+  {
+    "molecule_name": "alanine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "arginine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "asparagine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "aspartic acid",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "glutamic acid",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "glutamine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "glycine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "histidine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "isoleucine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "leucine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "lysine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "methionine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "phenylalanine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "serine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "threonine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "tryptophan",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "tyrosine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "valine",
+    "class": "amino acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "caprylic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "cholesterol",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "decane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "decanoic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "dodecane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "glycerol",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "heptane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "hexadecanol",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "hexane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "lauric acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "linoleic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "myristic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "nonane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "octane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "oleic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "palmitic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "stearic acid",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "undecane",
+    "class": "lipids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "adenine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "barbituric acid",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "cytidine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "cytosine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "guanine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "imidazole",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "nicotinamide",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "nicotinic acid",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "purine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "pyrimidine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "thymidine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "thymine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "uracil",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "uric acid",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "uridine",
+    "class": "nucleic acids",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "acetate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "acetone",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "alpha-ketoglutarate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "butyrate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "choline",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "citrate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "creatine",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "ethanol",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "formate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "fumarate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "isopropanol",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "lactate",
+    "class": "primary metabolites",
+    "status": "error",
+    "message": "Request failed after 3 attempts: https://sdbs.db.aist.go.jp/RamanSpectralView.aspx?fname=RM1965&sdbsno=2596"
+  },
+  {
+    "molecule_name": "malate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "methanol",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "propionate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "pyruvate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "succinate",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "urea",
+    "class": "primary metabolites",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "acetamide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "aniline",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "benzamide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "biuret",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "butylamine",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "butyramide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "dimethylformamide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "ethylamine",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "formamide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "guanidine",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "imidazole",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "indole",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "methylamine",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "n-methylacetamide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "propionamide",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "propylamine",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "pyrrole",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "urea",
+    "class": "proteins",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "erythritol",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "glucosamine",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "glucose",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "inositol",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "mannitol",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "sorbitol",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  },
+  {
+    "molecule_name": "xylitol",
+    "class": "saccharides",
+    "status": "no_jcamp",
+    "message": "JCAMP-DX file link not found"
+  }
+]
